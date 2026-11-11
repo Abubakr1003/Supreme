@@ -1,0 +1,9 @@
+{
+  "name": "ULTRON AI",
+  "short_name": "ULTRON",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090b12",
+  "theme_color": "#090b12",
+  "icons": []
+}
